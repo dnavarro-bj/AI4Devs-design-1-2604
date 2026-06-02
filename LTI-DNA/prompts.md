@@ -1,5 +1,5 @@
-> **Uso de herramientas de IA:** Durante la realización de este trabajo se ha utilizado ChatGPT como herramienta de asistencia para el análisis de requisitos, la exploración de alternativas de diseño, la generación de diagramas y la redacción de documentación técnica. Todas las decisiones de diseño, validaciones y adaptaciones finales han sido realizadas por el autor.
---
+> **Uso de herramientas de IA:** Se ha utilizado ChatGPT
+
 Prompt 1
 --
 
